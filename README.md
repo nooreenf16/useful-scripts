@@ -1,1 +1,1 @@
-# useful-snippets
+# useful-scripts
